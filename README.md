@@ -28,12 +28,12 @@ A análise considera múltiplas métricas relevantes para o negócio, como:
 
 ### Quantidade de vendas
 
-![img](assets/vendaspcg)
+![img](assets/vendaspcg.png)
 
 > **Insight** É possível observar quais categorias são mais populares e quais não são, e também o quanto cada loja se destaca em cada categoria.
 
 
-📌 **Conclusão geral:** considerando todos os indicadores analisados, uma das lojas se destaca negativamente e é recomendada para venda por apresentar o pior desempenho global.
+📌 **Conclusão geral:** considerando todos os indicadores analisados, uma das lojas é recomendada para venda por apresentar o pior desempenho global.
 
 ---
 
@@ -43,7 +43,7 @@ A análise considera múltiplas métricas relevantes para o negócio, como:
 challengedadosalura/
 │
 ├── AluraStoreBrasil.ipynb   # Notebook principal com toda a análise
-├── dados/                  # (opcional) Pasta para arquivos CSV, caso separados
+├── assets/                  # Pasta para arquivos de imagem
 └── README.md               # Documentação do projeto
 ```
 
@@ -99,7 +99,7 @@ pip install pandas matplotlib jupyter
 
 ## 🧠 Tecnologias Utilizadas
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/>
