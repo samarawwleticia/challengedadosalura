@@ -6,24 +6,31 @@ Este projeto tem como objetivo realizar uma **análise exploratória de dados (E
 
 A análise considera múltiplas métricas relevantes para o negócio, como:
 
-* Faturamento total por loja
+### Faturamento total por loja
 
 ![img](assets/faturamento.png)
-* **Insight:** uma das lojas apresenta faturamento significativamente inferior às demais.
+
+> **Insight:** uma das lojas apresenta faturamento significativamente inferior às demais.
 
 
-* Avaliação média dos clientes
+### Avaliação média dos clientes
+
 ![img](assets/avcatergoria.png)
-* **Insight:** algumas lojas se destacam significativamente mais do que outras na avaliação dos clientes, como a Loja 3 na categoria Brinquedos.
 
-* Custo médio de frete
+> **Insight:** algumas lojas se destacam significativamente mais do que outras na avaliação dos clientes, como a Loja 3 na categoria Brinquedos.
+
+### Custo médio de frete
+
 ![img](assets/frete.png)
-* **Insight:** mesmo quando o frete é competitivo, isso não garante bom desempenho de vendas, como no caso da loja 4 que tem frete baixo mas ainda sim possui o menor faturamento.
+
+> **Insight:** mesmo quando o frete é competitivo, isso não garante bom desempenho de vendas, como no caso da loja 4 que tem frete baixo mas ainda sim possui o menor faturamento.
 
 
-* Quantidade de vendas
+### Quantidade de vendas
+
 ![img](assets/vendaspcg)
-* **Insight** É possível observar quais categorias são mais populares e quais não são, e também o quanto cada loja se destaca em cada categoria.
+
+> **Insight** É possível observar quais categorias são mais populares e quais não são, e também o quanto cada loja se destaca em cada categoria.
 
 
 📌 **Conclusão geral:** considerando todos os indicadores analisados, uma das lojas se destaca negativamente e é recomendada para venda por apresentar o pior desempenho global.
